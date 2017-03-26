@@ -1,2 +1,3 @@
 # hello-world
-this is the hello world project.
+This is the hello world project.
+I just added some more comments
